@@ -89,7 +89,6 @@ with `youtube(id="the_id_here")`
 
 ## Vimeo
 with `vimeo(id="id_here")`
-{{ vimeo(id="115189988") }}
 
 ## Links
 
