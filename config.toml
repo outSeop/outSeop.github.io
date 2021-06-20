@@ -1,5 +1,5 @@
 theme = "DeepThought"
-base_url = "https://outseop/github.io/"
+base_url = "https://outseop/github.io"
 title = "DeepThought"
 default_language = "en"
 highlight_code = true
