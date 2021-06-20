@@ -92,7 +92,6 @@ with `vimeo(id="id_here")`
 
 ## Links
 
-[Of Course](https://deepthought-theme.netlify.app/)
 
 ## Tables
 You can make tables in markdown, too!  Who would have thought.  Are these styled yet?
