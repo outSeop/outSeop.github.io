@@ -16,9 +16,6 @@ build_search_index = true
 ignored_content = []
 extra_syntaxes = []
 
-[link_checker]
-skip_prefixes = ["http://[2001:db8::]/"]
-skip_anchor_prefixes = ["https://caniuse.com/"]
 
 [slugify]
 paths = "on"
